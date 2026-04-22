@@ -12,7 +12,7 @@ Projeto desenvolvido para o desafio Pipeline ETL Analise de Dados | TOTVS e DIO.
 2. **Transform**: Classificação dos clientes em categorias (Ouro, Platinum, Black) e geração de mensagens de marketing via IA.
 3. **Load**: Exportação dos resultados para um novo arquivo CSV.
 
-##Como utilizar:
+## Como utilizar:
 
 Clone o repositório.
 
